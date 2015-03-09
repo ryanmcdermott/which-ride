@@ -1,0 +1,19 @@
+<form {{action "submit" on="submit"}}>
+  <div class="form-group">
+    <p>
+      <label class="fare-label"> 
+        Origin
+      </label>
+      {{input type="text" class="form-control fare-point" id="origin" placeholder="11 Wall Street New York, NY" value=origin}}
+      
+    </p>
+    <p>
+      <label class="fare-label"> 
+        Destination 
+      </label>
+      {{input type="text" class="form-control fare-point" id="destination" value=destination placeholder="1600 Pennsylvania Washington DC"}}
+      
+    </p>
+    <input type="submit" id="submit-form" class="form-control" {{bindAttr value=submitTitle}}>
+  </div>
+</form>

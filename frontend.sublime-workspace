@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end_",
+				"end_lon"
+			],
+			[
+				"star",
+				"start_lon"
+			],
+			[
+				"start_l",
+				"start_lat"
+			],
+			[
+				"de",
+				"destination_lon"
+			],
+			[
+				"des",
+				"destination_lat"
+			],
+			[
+				"origin",
+				"origin_lon"
+			],
+			[
+				"origi",
+				"origin_lat"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"d",
+				"destination"
+			],
+			[
+				"i",
+				"ifmain	if __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1324,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/stylesheets"
+	],
+	"file_history":
+	[
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/frontend.sublime-project",
+		"/Users/ryan/Desktop/resume.tex",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/stylesheets/application.css.sass",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/templates/application.hbs",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/helpers/application_helper.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/controllers/application_controller.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/application.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/application.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config.ru",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/routes/fares.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/templates/fares-results.hbs",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/controllers/fares-results.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/stylesheets/cover.scss",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/templates/fares-error.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/templates/loading.hbs",
+		"/Users/ryan/Desktop/commands.txt",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/templates/components/fares-form.hbs",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/routes/fares-results.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/tmp/cache/assets/development/sass/c1eca5309dc35a21d961b788f5f11b5064286dc6/font-awesome.css.erbc",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/views/layouts/application.html.erb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/environments/development.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/routes/loading.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/controllers/loading.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/router.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/Gemfile",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/lib/levenshtein.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/lib/scrape.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/initializers/api_keys.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/bin/bundle",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/controllers/api/v1/fares_controller.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/templates/fares.hbs",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/views/fares.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/controllers/fares.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/models/fare.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/lib/tasks/just_work.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/.gitignore",
+		"/Users/ryan/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/ryan/Library/Application Support/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/tmp/cache/assets/production/sass/f7b9a019a074fa1a6ce8cd3b54347f74c62d8fec/_background-variant.scssc",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/public/assets/application-de319e557b37ed76e15402bb151661b2.css",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/initializers/wrap_parameters.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/log/production.log",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/store.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/components/fares.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/templates/components/fares-results.hbs",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/templates/components/fares-show.hbs",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/routes/fares-show.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/images/bg2.jpg",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/routes.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/controllers/fare_index.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/environments/production.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/secrets.yml",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/database.yml",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/app.js",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/views/home/index.html.erb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/stylesheets/application.css",
+		"/Users/ryan/Desktop/which-ride.txt",
+		"/Users/ryan/justin_recommendation.txt",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/controllers/home_controller.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/config/environments/test.rb",
+		"/Users/ryan/Desktop/projects/which-ride/which-ride/app/assets/javascripts/controllers/home_controller.rb",
+		"/Users/ryan/Desktop/projects/Vagrantfile",
+		"/Users/ryan/Downloads/mlclass-ex1-007/mlclass-ex1/warmUpExercise.m",
+		"/Users/ryan/Desktop/Dockerfile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"leven",
+			"getFare",
+			"({});",
+			":",
+			"get_site_json",
+			"backgroun",
+			"api/v1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"dd",
+									"mode_internal_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 29
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "frontend.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cover",
+				"app/assets/stylesheets/cover.scss"
+			],
+			[
+				"fares-res",
+				"app/assets/javascripts/templates/fares-results.hbs"
+			],
+			[
+				"load",
+				"app/assets/javascripts/templates/loading.hbs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

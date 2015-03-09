@@ -1,0 +1,1 @@
+App.LoadingController = Ember.ObjectController.extend({});
